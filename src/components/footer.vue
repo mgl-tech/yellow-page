@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 </script>
 <template>
-    <div class="bg-gray-400">
+    <div class="bg-stone-600 ">
         <div class="container mx-auto py-4 flex justify-between items-center ">
             <div class="w-full  text-white">
                 <div class="">
@@ -12,7 +12,7 @@
                                 <defs>
                                     <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%"
                                         viewBox="0 0 197 70">
-                                        <image height="70" xlink:href="../assets/mgl-logo.svg" />
+                                        <image height="70" xlink:href="~/assets/mgl-logo.svg" />
                                     </pattern>
                                 </defs>
                                 <rect id="ETI-Logo" width="160" height="57" fill="url(#pattern)" />

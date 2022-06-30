@@ -25,8 +25,8 @@
                             <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">SEO Services</h3>
-                    <p class="text-gray-500">This is a wider card with supporting text below as a natural content.</p>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">网站系统</h3>
+                    <p class="text-gray-500">互联网时代，信息时代网站系统，电商网站等就必不可少的东西了</p>
                 </div>
                 <!-- end service block -->
             </div>
@@ -40,8 +40,8 @@
                             <path d="M5 6a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">Social Content</h3>
-                    <p class="text-gray-500">This is a wider card with supporting text below as a natural content.</p>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">小程序系统</h3>
+                    <p class="text-gray-500">想要快速占领市场，必须得抢占先机，小程序当仁不让不二选择</p>
                 </div>
                 <!-- end service block -->
             </div>
@@ -55,8 +55,8 @@
                             <path d="M14 3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12zM2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">Creative ads</h3>
-                    <p class="text-gray-500">This is a wider card with supporting text below as a natural content.</p>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">App应用</h3>
+                    <p class="text-gray-500">前进道路上的必备产品之一, 到了做什么都需要安装App时代到了... </p>
                 </div>
                 <!-- end service block -->
             </div>
@@ -70,8 +70,8 @@
                             <path d="M7 5.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm-1.496-.854a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 1 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0zM7 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm-1.496-.854a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 0 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">Brand Identity</h3>
-                    <p class="text-gray-500">This is a wider card with supporting text below as a natural content.</p>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">运维，OpsDev</h3>
+                    <p class="text-gray-500">Kubernetes（k8s）, k3s , Dokcer , Docker compose , Jenkins, Gitlabs ...</p>
                 </div>
                 <!-- end service block -->
             </div>
@@ -84,8 +84,8 @@
                             <path d="M12.136.326A1.5 1.5 0 0 1 14 1.78V3h.5A1.5 1.5 0 0 1 16 4.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 13.5v-9a1.5 1.5 0 0 1 1.432-1.499L12.136.326zM5.562 3H13V1.78a.5.5 0 0 0-.621-.484L5.562 3zM1.5 4a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">Budget &amp; Marketing</h3>
-                    <p class="text-gray-500">This is a wider card with supporting text below as a natural content.</p>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">基础 &amp; 技能</h3>
+                    <p class="text-gray-500">Java，Kotlin , Golang, Python , PHp , Javascript, Typescript， css， scss, html ， sql ...</p>
                 </div>
                 <!-- end service block -->
             </div>
@@ -98,8 +98,51 @@
                             <path d="M1.5 1.5A.5.5 0 0 1 2 1h12a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.128.334L10 8.692V13.5a.5.5 0 0 1-.342.474l-3 1A.5.5 0 0 1 6 14.5V8.692L1.628 3.834A.5.5 0 0 1 1.5 3.5v-2zm1 .5v1.308l4.372 4.858A.5.5 0 0 1 7 8.5v5.306l2-.666V8.5a.5.5 0 0 1 .128-.334L13.5 3.308V2h-11z"></path>
                         </svg>
                     </div>
-                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">Optimize conversions</h3>
-                    <p class="text-gray-500">This is a wider card with supporting text below as a natural content.</p>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">数据库 &amp; 存储</h3>
+                    <p class="text-gray-500">MySQL , Mssql，Redis, Memcache, Couchbase, Minio ...</p>
+                </div>
+                <!-- end service block -->
+            </div>
+            <div class="flex-shrink px-4 max-w-full w-full sm:w-1/2 lg:w-1/3 lg:px-6 wow fadeInUp" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: fadeInUp;">
+                <!-- service block -->
+                <div class="py-8 px-12 mb-12 bg-gray-50 border-b border-gray-100 transform transition duration-300 ease-in-out hover:-translate-y-2">
+                    <div class="inline-block text-gray-900 mb-4">
+                        <!-- icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" width="2rem" height="2rem" fill="currentColor" class="bi bi-card-checklist" viewBox="0 0 16 16">
+                            <path d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h13zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-13z"></path>
+                            <path d="M7 5.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm-1.496-.854a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 1 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0zM7 9.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm-1.496-.854a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708 0l-.5-.5a.5.5 0 0 1 .708-.708l.146.147 1.146-1.147a.5.5 0 0 1 .708 0z"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">框架 &amp; 脚手架</h3>
+                    <p class="text-gray-500">Spring Boot, Hibernate, Mybaties, Goframe， Nuxtjs, Vue2/Vue3 ...</p>
+                </div>
+                <!-- end service block -->
+            </div>
+            <div class="flex-shrink px-4 max-w-full w-full sm:w-1/2 lg:w-1/3 lg:px-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeInUp;">
+                <!-- service block -->
+                <div class="py-8 px-12 mb-12 bg-gray-50 border-b border-gray-100 transform transition duration-300 ease-in-out hover:-translate-y-2">
+                    <div class="inline-block text-gray-900 mb-4">
+                        <!-- icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" width="2rem" height="2rem" fill="currentColor" class="bi bi-wallet2" viewBox="0 0 16 16">
+                            <path d="M12.136.326A1.5 1.5 0 0 1 14 1.78V3h.5A1.5 1.5 0 0 1 16 4.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 13.5v-9a1.5 1.5 0 0 1 1.432-1.499L12.136.326zM5.562 3H13V1.78a.5.5 0 0 0-.621-.484L5.562 3zM1.5 4a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">项目经验</h3>
+                    <p class="text-gray-500">网站系统，管理系统，工具系统，小程序，前端，后端，app ... </p>
+                </div>
+                <!-- end service block -->
+            </div>
+            <div class="flex-shrink px-4 max-w-full w-full sm:w-1/2 lg:w-1/3 lg:px-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                <!-- service block -->
+                <div class="py-8 px-12 mb-12 bg-gray-50 border-b border-gray-100 transform transition duration-300 ease-in-out hover:-translate-y-2">
+                    <div class="inline-block text-gray-900 mb-4">
+                        <!-- icon -->
+                        <svg xmlns="http://www.w3.org/2000/svg" width="2rem" height="2rem" fill="currentColor" class="bi bi-funnel" viewBox="0 0 16 16">
+                            <path d="M1.5 1.5A.5.5 0 0 1 2 1h12a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.128.334L10 8.692V13.5a.5.5 0 0 1-.342.474l-3 1A.5.5 0 0 1 6 14.5V8.692L1.628 3.834A.5.5 0 0 1 1.5 3.5v-2zm1 .5v1.308l4.372 4.858A.5.5 0 0 1 7 8.5v5.306l2-.666V8.5a.5.5 0 0 1 .128-.334L13.5 3.308V2h-11z"></path>
+                        </svg>
+                    </div>
+                    <h3 class="text-lg leading-normal mb-2 font-semibold text-black">Entertainment</h3>
+                    <p class="text-gray-500">跑步（😀），看电影（😀），喝酒，早睡早起（😀） ...</p>
                 </div>
                 <!-- end service block -->
             </div>

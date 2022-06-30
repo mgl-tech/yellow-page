@@ -11,7 +11,7 @@
                             <defs>
                                 <pattern id="pattern-h" preserveAspectRatio="none" width="100%" height="100%"
                                     viewBox="0 0 35 35">
-                                    <image height="35" xlink:href="../assets/mgl-logo.svg" />
+                                    <image height="35" xlink:href="~/assets/mgl-logo.svg" />
                                 </pattern>
                             </defs>
                             <rect id="ETI-Logo" width="35" height="35" fill="url(#pattern-h)" />
@@ -26,7 +26,7 @@
                             <span>
                             </span>
                         </div>
-                        <div class="flex items-center space-x-2">
+                     <!--    <div class="flex items-center space-x-2">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-400" fill="none"
                                     viewBox="0 0 24 24" stroke="currentColor">
@@ -37,7 +37,7 @@
                             <span class="">
                                 <nuxt-link to="/timeline">时间线</nuxt-link>
                             </span>
-                        </div>
+                        </div> -->
                         <div class="flex items-center space-x-2">
                             <span>
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-400" fill="none"
