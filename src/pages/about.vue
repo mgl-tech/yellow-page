@@ -8,7 +8,7 @@
                 <div class="flex flex-wrap justify-center">
                     <div class="w-full flex justify-center">
                         <div class="relative">
-                            <img src="../assets/mgl-logo.svg"
+                            <img src="@/assets/mgl-logo.svg"
                                 class="shadow-xl rounded-full align-middle border-none absolute -m-16 -ml-20 lg:-ml-16 max-w-[150px]" />
                         </div>
                     </div>
